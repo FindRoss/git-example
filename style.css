@@ -1,0 +1,17 @@
+/* default reset */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* start of styling */
+.container {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
